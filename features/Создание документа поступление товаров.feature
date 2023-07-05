@@ -1,5 +1,5 @@
-﻿#language: ru
-
+﻿@language: ru
+@ExportScenarios
 
 
 Функционал: Создание документа постуаление товаров и услуг
